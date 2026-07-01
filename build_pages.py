@@ -874,6 +874,21 @@ def build_404():
 def build_root_files():
     write_root("CNAME", "windsorhvacpros.ca\n")
     write_root("robots.txt", f"User-agent: *\nAllow: /\n\nSitemap: {DOMAIN}/sitemap.xml\n")
+    LLMS = (
+      f"# {SITE_NAME}\n\n"
+      f"> Licensed, insured HVAC company in {CITY}, {REGION}. A full-service heating and cooling team handling furnace and AC repair, heat pumps, ductless systems, thermostats, and duct cleaning, plus seasonal maintenance, for homeowners across {CITY} and {COUNTY}. Call {PHONE_DISPLAY}.\n\n"
+      f"## Key pages\n"
+      f"- [Home]({DOMAIN}/)\n"
+      f"- [Services]({DOMAIN}/services/)\n"
+      f"- [About]({DOMAIN}/about/)\n"
+      f"- [Blog]({DOMAIN}/blog/)\n"
+      f"- [Contact]({DOMAIN}/contact/)\n\n"
+      f"## Contact\n"
+      f"- Phone: {PHONE_DISPLAY}\n"
+      f"- Email: {EMAIL}\n"
+      f"- Area served: {CITY}, {REGION} and {COUNTY}\n"
+    )
+    write_root("llms.txt", LLMS)
     write_root(".nojekyll", "")
     urls = ["/","/about/","/services/","/blog/","/contact/","/privacy-policy/"]
     urls += [f"/services/{s['slug']}/" for s in SERVICES]
