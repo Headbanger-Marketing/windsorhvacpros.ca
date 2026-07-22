@@ -169,15 +169,15 @@ def related_service(p):
 
 # ============================================================ SERVICE PAGE
 # --- recovered WP photos (added in remediation) ---
-SVC_PHOTO_FALLBACK = ("wp/London-Ontario-HVAC-technician.png", "Windsor HVAC Pros HVAC technician in service")
+SVC_PHOTO_FALLBACK = ("wp/Windsor-Ontario-HVAC-technician.png", "Windsor HVAC Pros HVAC technician in service")
 SVC_PHOTO = {
  "furnace-repair": ("wp/furnace-repair-1536x1024-2.png", "Furnace repair service"),
- "ac-repair": ("wp/London-Ontario-HVAC-technician.png", "Air conditioner repair service"),
- "ductless-ac-installation": ("wp/London-Ontario-HVAC-Contractor.png", "Ductless mini-split installation"),
- "heat-pump-repair-installation": ("wp/London-Ontario-HVAC-Contractor.png", "Heat pump repair and installation"),
- "fireplace-installation": ("wp/London-Ontario-HVAC-Contractor.png", "Fireplace installation"),
- "thermostat-repair-replacement": ("wp/London-Ontario-HVAC-technician.png", "Thermostat replacement"),
- "duct-cleaning": ("wp/London-Ontario-HVAC-technician.png", "Duct cleaning service"),
+ "ac-repair": ("wp/Windsor-Ontario-HVAC-technician.png", "Air conditioner repair service"),
+ "ductless-ac-installation": ("wp/Windsor-Ontario-HVAC-Contractor.png", "Ductless mini-split installation"),
+ "heat-pump-repair-installation": ("wp/Windsor-Ontario-HVAC-Contractor.png", "Heat pump repair and installation"),
+ "fireplace-installation": ("wp/Windsor-Ontario-HVAC-Contractor.png", "Fireplace installation"),
+ "thermostat-repair-replacement": ("wp/Windsor-Ontario-HVAC-technician.png", "Thermostat replacement"),
+ "duct-cleaning": ("wp/Windsor-Ontario-HVAC-technician.png", "Duct cleaning service"),
 }
 
 def build_service(slug, data):
@@ -368,7 +368,7 @@ def build_home():
         </div>
       </div>
       <div class="split__media reveal d1">
-        <img class="media-photo" src="/assets/img/wp/London-Ontario-HVAC-technician.png" alt="Windsor HVAC Pros HVAC technician servicing a system" width="640" height="640" loading="lazy" decoding="async">
+        <img class="media-photo" src="/assets/img/wp/Windsor-Ontario-HVAC-technician.png" alt="Windsor HVAC Pros HVAC technician servicing a system" width="640" height="640" loading="lazy" decoding="async">
         <div class="about-badge" style="display:flex;align-items:center;gap:14px;margin-top:16px">
           <img class="badge-img" src="/assets/img/wp/quality-guarantee.png" alt="Satisfaction guarantee" width="72" height="72" loading="lazy" decoding="async">
           <p style="margin:0;color:var(--muted)">Every job is backed by our 100% satisfaction guarantee.</p>
