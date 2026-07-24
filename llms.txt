@@ -1,15 +1,26 @@
 # Windsor HVAC Pros
 
-> Licensed, insured HVAC company in Windsor, Ontario. A full-service heating and cooling team handling furnace and AC repair, heat pumps, ductless systems, thermostats, and duct cleaning, plus seasonal maintenance, for homeowners across Windsor and Essex County. Call (519) 258-3741.
+> Windsor HVAC Pros is a local HVAC company serving Windsor, Essex County, Ontario, offering furnace repair, AC repair, ductless mini-split installation, heat pump repair and installation, fireplace installation, thermostat repair, and duct cleaning to homeowners across the region.
+
+Phone: (519) 258-3741  |  Email: contact@windsorhvacpros.ca  |  Website: https://windsorhvacpros.ca
+
+Service areas: Windsor, LaSalle, Tecumseh, Amherstburg, Leamington, Lakeshore, Belle River, Essex
 
 ## Key pages
-- [Home](https://windsorhvacpros.ca/)
-- [Services](https://windsorhvacpros.ca/services/)
-- [About](https://windsorhvacpros.ca/about/)
-- [Blog](https://windsorhvacpros.ca/blog/)
-- [Contact](https://windsorhvacpros.ca/contact/)
 
-## Contact
-- Phone: (519) 258-3741
-- Email: contact@windsorhvacpros.ca
-- Area served: Windsor, Ontario and Essex County
+- [Home](https://windsorhvacpros.ca/): Windsor HVAC Pros homepage with service overview and FAQ
+- [About](https://windsorhvacpros.ca/about/): About the company and service area
+- [Contact](https://windsorhvacpros.ca/contact/): Request a free quote or service call
+
+## Services
+
+- [Furnace Installation & Repair](https://windsorhvacpros.ca/services/furnace-repair/): Furnace Installation & Repair in Windsor, Ontario
+- [AC Installation & Repair](https://windsorhvacpros.ca/services/ac-repair/): AC Installation & Repair in Windsor, Ontario
+- [Heat Pumps](https://windsorhvacpros.ca/services/heat-pump-repair-installation/): Heat Pumps in Windsor, Ontario
+- [Duct Cleaning](https://windsorhvacpros.ca/services/duct-cleaning/): Duct Cleaning in Windsor, Ontario
+- [Thermostats](https://windsorhvacpros.ca/services/thermostat-repair-replacement/): Thermostats in Windsor, Ontario
+- [Ductless AC Installation](https://windsorhvacpros.ca/services/ductless-ac-installation/): Ductless AC Installation in Windsor, Ontario
+
+## FAQ
+
+Common questions about HVAC service in Windsor are answered on the homepage.
